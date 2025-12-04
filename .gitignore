@@ -1,0 +1,23 @@
+# Directory Mix will write compiled artifacts to
+backend/_build/
+
+# If you run "mix test --cover", coverage assets end up here
+backend/cover/
+
+# Directory Mix downloads your dependencies sources to
+backend/deps/
+
+# Third-party dependencies like ExDoc output generated docs
+backend/doc/
+
+# Temporary files, for example, from tests
+backend/tmp/
+
+# Generated VM crash dump
+backend/erl_crash.dump
+
+# Archive artifacts
+*.ez
+
+# Package tarball
+kusanagi-*.tar
