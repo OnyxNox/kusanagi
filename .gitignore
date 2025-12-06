@@ -1,3 +1,7 @@
+# Generic ignore
+
+*.ignore*
+
 # Directory Mix will write compiled artifacts to
 backend/_build/
 
