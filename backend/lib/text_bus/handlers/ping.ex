@@ -1,4 +1,4 @@
-defmodule TextBus.Handlers.Health do
+defmodule TextBus.Handlers.Ping do
   @behaviour :cowboy_handler
 
   def init(req, state) do

@@ -49,3 +49,11 @@
         # Fetch dependencies
         mix deps.get
         ```
+
+## Running
+
+Run development build using [**Mix**](https://hexdocs.pm/elixir/main/introduction-to-mix.html) build tool
+
+```shell
+mix run --no-halt
+```
